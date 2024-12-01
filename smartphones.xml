@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <smartphone brand="Apple" model="iPhone 13" year="2021">
+        <specifications>
+            <screen>6.1 inches</screen>
+            <processor>A15 Bionic chip</processor>
+            <ram>4GB</ram>
+            <storage>128GB</storage>
+            <battery>3227mAh</battery>
+        </specifications>
+        <price currency="USD">799</price>
+    </smartphone>
+    
+    <smartphone brand="Samsung" model="Galaxy S21" year="2021">
+        <specifications>
+            <screen>6.2 inches</screen>
+            <processor>Exynos 2100</processor>
+            <ram>8GB</ram>
+            <storage>128GB</storage>
+            <battery>4000mAh</battery>
+        </specifications>
+        <price currency="USD">799</price>
+    </smartphone>
+    
+    <!-- Add your smartphone here -->
+    <smartphone brand="Google" model="Pixel 6" year="2021">
+        <specifications>
+            <screen>6.4 inches</screen>
+            <processor>Google Tensor</processor>
+            <ram>8GB</ram>
+            <storage>128GB</storage>
+            <battery>4600mAh</battery>
+        </specifications>
+        <price currency="USD">599</price>
+    </smartphone>
+</smartphones>

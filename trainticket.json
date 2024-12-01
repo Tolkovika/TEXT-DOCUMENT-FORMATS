@@ -1,0 +1,21 @@
+{
+  "ticketID": "VKTK12345",
+  "passengerName": "Viktoriia Kuropiatkina",
+  "trainNumber": "IC202",
+  "departure": {
+    "station": "Krakow Glowny",
+    "time": "2024-12-01T09:00:00",
+    "platform": 5
+  },
+  "arrival": {
+    "station": "Warsaw Centralna",
+    "time": "2024-12-01T11:30:00",
+    "platform": 3
+  },
+  "class": "First Class",
+  "price": 150,
+  "currency": "PLN",
+  "isRefundable": true,
+  "seatNumber": "1A",
+  "servicesIncluded": ["Wi-Fi", "Power Outlet", "Complimentary Snacks"]
+}

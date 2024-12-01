@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "H&M",
+      "founder": "Erling Persson",
+      "founded": 1947,
+      "headquarters": "Stockholm, Sweden",
+      "revenue": "22.4 billion USD",
+      "employees": 126000,
+      "type": "Fast Fashion"
+    },
+    {
+      "name": "Zara",
+      "founder": "Amancio Ortega Gaona",
+      "founded": 1975,
+      "headquarters": "Arteijo, Spain",
+      "revenue": "20.5 billion USD",
+      "employees": 174000,
+      "type": "Fast Fashion"
+    },
+    {
+      "name": "Loro Piana",
+      "founder": "Loro Piana Family",
+      "founded": 1924,
+      "headquarters": "Biella, Italy",
+      "revenue": "1.2 billion EUR",
+      "employees": 3000,
+      "type": "Luxury Fashion"
+    }
+  ]
+}
+}

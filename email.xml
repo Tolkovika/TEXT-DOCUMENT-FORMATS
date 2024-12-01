@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>vkuropiatkina@gmail.com</sender>
+    <recipient>annadonizak@gmail.com</recipient>
+    <subject>Meeting</subject>
+    <body>
+        <![CDATA[
+        Dear Anna,
+
+        I wanted to meet you tomorrow. The time can be at 8 PM.
+
+        Best regards,
+        Viktoriia
+        ]]>
+    </body>
+</email>

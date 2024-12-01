@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <meansOfTransport type="car" brand="Audi">
+        <model>SQ7</model>
+        <year>2021</year>
+        <fuelType>Petrol</fuelType>
+        <color>Black</color>
+    </meansOfTransport>
+    
+    <meansOfTransport type="horse" brand="Szary">
+        <model>Arabian</model>
+        <year>2015</year>
+        <fuelType>Fruits</fuelType>
+        <color>Brown</color>
+    </meansOfTransport>
+    
+    <meansOfTransport type="bus" brand="Mercedes">
+        <model>Sprinter</model>
+        <year>2018</year>
+        <fuelType>Diesel</fuelType>
+        <color>White</color>
+    </meansOfTransport>
+</transport>
